@@ -43,7 +43,7 @@ int print_unsigned(va_list types, char buffer[],
  * @flags:  Calculates active flags
  * @width: the width
  * @precision: Precision specification
- * @size: specifys Size 
+ * @size: specifys Size
  * Return: No. chars printed
  */
 int print_octal(va_list types, char buffer[],
@@ -85,7 +85,7 @@ int print_octal(va_list types, char buffer[],
  * @flags:  Calculates active flags
  * @width: the width
  * @precision: Precision specification
- * @size: specifys Size 
+ * @size: specifys Size
  * Return: No. chars printed
  */
 int print_hexadecimal(va_list types, char buffer[],
@@ -103,7 +103,7 @@ int print_hexadecimal(va_list types, char buffer[],
  * @flags:  Calculates active flags
  * @width: the width
  * @precision: Precision specification
- * @size: specifys  Size 
+ * @size: specifys  Size
  * Return: No. chars printed
  */
 int print_hexa_upper(va_list types, char buffer[],
@@ -123,7 +123,7 @@ int print_hexa_upper(va_list types, char buffer[],
  * @flag_ch: Calculates active flags
  * @width: the width
  * @precision: Precision specification
- * @size: specifys Size 
+ * @size: specifys Size
  * @size: Size specification
  * Return: No. chars printed
  */
